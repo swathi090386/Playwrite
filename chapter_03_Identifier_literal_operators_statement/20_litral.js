@@ -1,4 +1,4 @@
-let age = "pramod"; // This is a string literal assigned to the variable 'age'.
+let age = "swathi"; // This is a string literal assigned to the variable 'age'.
 let isStudent = true; // This is a boolean literal assigned to the variable 'isStudent'.
 let pi = 3.14; // This is a numeric literal assigned to the variable 'pi'.
 let name = 'Alice'; // This is a string literal assigned to the variable 'name'.
