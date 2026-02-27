@@ -16,3 +16,7 @@ switch (true) {
     default:
         console.log("Unsatisfactory — Requires training");
 }
+// Output: Excellent — Above expectations
+// In this example, we are using a switch statement with the expression "true" to evaluate different conditions based on the value of "testScore". 
+// Each case checks if the test score falls within a certain range and prints the corresponding performance evaluation. 
+// This approach allows us to handle multiple conditions in a clear and organized manner.
