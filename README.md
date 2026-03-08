@@ -1,20 +1,27 @@
 # Playwrite
 
-Simple project containing Playwright/JS learning files and Java concepts placeholder.
+A repository containing JavaScript tutorials from basics to advanced concepts, along with Playwright setup for testing.
 
-Structure:
-- chapter_01_Basics: basic JavaScript / Playwright examples
-- chapter_02_Java_Concepts: placeholder directory for Java notes
+## Structure:
+- **chapter_01_Basics**: Basic JavaScript and Playwright examples
+- **chapter_02_Java_Concepts**: Core JavaScript concepts including variables, hoisting, and data types
+- **chapter_03_Identifier_literal_operators_statement**: Identifiers, literals, operators, and statements
+- **chapter_04_Operators**: Detailed operator examples
+- **chapter_05_Statements**: Control statements like if-else, switch
+- **chapter_06_switch_statement.js**: Switch statement examples
+- **chapter_07_Loop.js**: Loop constructs (for, while, do-while)
+- **chapter_08_Arrays**: Array creation, manipulation, searching, iterating, transforming, and sorting
+- **PW_JS_Test1**: Playwright test examples
 
-Quick start:
+## Quick Start:
 
-1. Install dependencies (if any):
+1. Install dependencies:
 
 ```powershell
 npm install
 ```
 
-2. Run Playwright tests (if added):
+2. Run Playwright tests:
 
 ```powershell
 npx playwright test
