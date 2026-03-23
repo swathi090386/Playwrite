@@ -11,6 +11,9 @@ A repository containing JavaScript tutorials from basics to advanced concepts, a
 - **chapter_06_switch_statement.js**: Switch statement examples
 - **chapter_07_Loop.js**: Loop constructs (for, while, do-while)
 - **chapter_08_Arrays**: Array creation, manipulation, searching, iterating, transforming, and sorting
+- **chapter_09_Functions**: Function declaration, expressions, parameters, and return values
+- **chapter_10_String**: String manipulation, methods, and operations
+- **chapter_11_Objects**: Object creation, properties, methods, and manipulation
 - **PW_JS_Test1**: Playwright test examples
 
 ## Quick Start:
