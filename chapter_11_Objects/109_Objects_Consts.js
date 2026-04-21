@@ -43,5 +43,6 @@ console.log(user) //{ name: 'John', age: 31, email: 'john@example.com', city: 'N
 const key1 = "name";
 const key2 = "age";
 
-console.log(user.key1);
-console.log(user[key1]);
+console.log(user.key1); //undefined   // ❌ looks for property "key1"
+console.log(user[key1]); // John
+//Bracket notation → useful for dynamic keys

@@ -5,3 +5,6 @@ function sayHello() {
 
 let relative = sayHello();
 console.log(relative);
+
+//Hi
+//Hello

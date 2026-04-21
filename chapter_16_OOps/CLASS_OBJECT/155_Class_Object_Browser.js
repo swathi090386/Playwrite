@@ -22,3 +22,6 @@ loginTest_ref.display();
 
 // Function vs Method
 // method is functions but inside the class :)
+
+//output:
+// Login Test → PASS → P0

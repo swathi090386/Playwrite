@@ -5,7 +5,7 @@ console.log(str.toUpperCase()); // "  HELLO, WORLD!  "
 console.log(str.toLowerCase()); // "  hello, world!  "
 
 // Trim whitespace
-console.log(str.trim()); // "Hello, World!"
+console.log(str.trim()); // Hello, World!
 
 console.log(str.trimStart()); // "Hello, World!  "
 console.log(str.trimEnd()); // "  Hello, World!"

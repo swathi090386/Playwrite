@@ -18,3 +18,8 @@ let chrome = new Browser("Chrome");
 let firefox = new Browser("Firefox");
 
 console.log(chrome.isOpen);
+
+//output:
+// Chrome launched
+// Firefox launched
+// true

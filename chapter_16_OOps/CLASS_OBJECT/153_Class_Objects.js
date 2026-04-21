@@ -13,4 +13,5 @@ class Person {
 
 // CAB -> Class contains attribute, behaviour
 
-//output:
+// Object is an instance of a class
+// Object is a real world entity created based on the blueprint of class
