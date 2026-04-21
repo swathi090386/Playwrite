@@ -1,4 +1,4 @@
-# Playwrite
+# Playwright
 
 A repository containing JavaScript tutorials from basics to advanced concepts, along with Playwright setup for testing.
 
@@ -14,7 +14,21 @@ A repository containing JavaScript tutorials from basics to advanced concepts, a
 - **chapter_09_Functions**: Function declaration, expressions, parameters, and return values
 - **chapter_10_String**: String manipulation, methods, and operations
 - **chapter_11_Objects**: Object creation, properties, methods, and manipulation
+- **chapter_12_Multi_Dimension_Array**: Multi-dimensional arrays
+- **chapter_13_Callback**: Callback functions
+- **chapter_14_Promise**: Promises in JavaScript
+- **chapter_15_Async_Await**: Asynchronous programming with async/await
+- **chapter_16_OOps**: Object-Oriented Programming basics
+- **chapter_17_OOPs_Inheritance**: Inheritance in OOP
+- **chapter_18_Typescript**: Introduction to TypeScript
+- **chapter_19_Typescript_Interface**: TypeScript interfaces
+- **chapter_20_Typescript_ENUM**: TypeScript enums
+- **chapter_21_Typescript_Generic**: TypeScript generics
+- **chapter_22_Typescript_PRIVATE_PROTECTED_PUBLIC**: Access modifiers in TypeScript
+- **chapter_23_Playwright_Fundamentals**: Playwright fundamentals
+- **Lecture_Playwright_MCP**: Lectures on Playwright MCP
 - **PW_JS_Test1**: Playwright test examples
+- **test-results**: Test results directory
 
 ## Quick Start:
 
